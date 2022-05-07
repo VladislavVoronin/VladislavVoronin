@@ -29,4 +29,4 @@
 
 [Telegram]: https://t.me/vlad9710
 [VK]: https://vk.com/vlad9710
-[Linkedin]: www.linkedin.com/in/vlad9710
+[Linkedin]: https://www.linkedin.com/in/vlad9710/
