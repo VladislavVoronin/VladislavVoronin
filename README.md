@@ -3,7 +3,7 @@
   </div> 
           <div>
                <p align='center'>
-                 <img src="https://i.gifer.com/3kkm.gif" width="600" />
+                 <img src="https://i.gifer.com/3kkm.gif?raw=true" width="600" />
                <p/>
                <div/>
 </div>
