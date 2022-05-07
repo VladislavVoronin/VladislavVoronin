@@ -1,12 +1,7 @@
-# Hi, Dear! 👋
+# Hi, Dear! 👋\
 
-  </div> 
-          <div>
-               <p align='center'>
-                 <img src="https://i.gifer.com/3kkm.gif?raw=true" width="600" />
-               <p/>
-               <div/>
-</div>
+<div><p align='center'><img src="https://i.gifer.com/3kkm.gif?raw=true" width="600" /><p/><div/>
+
 
 </br>
 </br>
