@@ -1,6 +1,6 @@
 # Hi, Dear! 👋
 
-<iframe src="https://gifer.com/embed/3kkm" width=480 height=197.760 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<iframe src="https://gifer.com/embed/3kkm" width=480 height=197.760 frameBorder="0" allowFullScreen>
 
 </br>
 </br>
