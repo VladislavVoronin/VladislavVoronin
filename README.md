@@ -1,7 +1,7 @@
 # Hi, Dear! 👋\
 
-<div><p align='center'><img src="https://i.gifer.com/3kkm.gif?raw=true" width="600" /><p/><div/>
-
+<img width="100%" height="100%" src="https://i.gifer.com/3kkm.gif" />
+<!-- <div><p align='center'><img src="https://i.gifer.com/3kkm.gif" width="600" /><p/><div/> -->
 
 </br>
 </br>
