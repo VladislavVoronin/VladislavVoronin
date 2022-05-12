@@ -1,6 +1,6 @@
 # Welcome, dear! 👋
 
-<img width="100%" height="100%" src="https://github.com/VladislavVoronin/VladislavVoronin/blob/main/3kkm.gif"/>
+<img width="100%" height="100%" src="https://github.com/vlad9710/vlad9710/blob/main/3kkm.gif"/>
 
 ## Skills and Tools
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
@@ -20,9 +20,9 @@
 [<img align="left" alt="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][Linkedin]
 
 
-[JS]: https://github.com/VladislavVoronin/Ksendzov_group_27/tree/main/JS
-[Postman]: https://github.com/VladislavVoronin/Ksendzov_group_27/tree/main/Postman
-[SQL]: https://github.com/VladislavVoronin/Ksendzov_group_27/tree/main/SQL
+[JS]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/JS
+[Postman]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/Postman
+[SQL]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/SQL
 
 
 
