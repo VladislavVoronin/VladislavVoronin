@@ -6,6 +6,7 @@
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="PHP" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />][Postman]
 [<img align="left" alt="PHP" width="40px" src="https://img.icons8.com/dusk/2x/dbeaver.png" />][SQL]
+[<img align="left" alt="PHP" width="40px" src="https://qaevolution.ru/wp-content/uploads/2016/01/document-27655_960_720.png" />][WebForm]
 
 
 
@@ -23,7 +24,7 @@
 [JS]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/JS
 [Postman]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/Postman
 [SQL]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/SQL
-
+[WebForm]: https://docs.google.com/spreadsheets/d/1NlktO9H_0KF6KUlehLPBN-xHCHEgIsK1yezUQ91pYW0/edit#gid=123546010
 
 
 
