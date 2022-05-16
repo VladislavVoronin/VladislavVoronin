@@ -23,7 +23,7 @@
 
 [JS]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/JS
 [Postman]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/Postman
-[PostgreSQL]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/PostgreSQL/SQL
+[PostgreSQL]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/SQL/PostgreSQL
 [WebForm]: https://docs.google.com/spreadsheets/d/1NlktO9H_0KF6KUlehLPBN-xHCHEgIsK1yezUQ91pYW0/edit#gid=123546010
 
 
