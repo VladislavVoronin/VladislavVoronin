@@ -15,7 +15,7 @@
 </br>
 </br>
 
-## Follow me:
+## Contact me:
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="PHP" width="40px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][VK]
 [<img align="left" alt="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][Linkedin]
