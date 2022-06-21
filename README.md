@@ -19,8 +19,8 @@
 
 <p align="center">
 <a href="https://github.com/vlad9710">
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vlad9710&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad9710&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vlad9710&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="420px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad9710&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
