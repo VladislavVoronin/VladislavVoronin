@@ -15,6 +15,15 @@
 </br>
 </br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vlad9710&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlad9710&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Contact me:
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="PHP" width="40px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][VK]
