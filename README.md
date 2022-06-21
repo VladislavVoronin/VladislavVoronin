@@ -1,4 +1,4 @@
-# Welcome, dear! 👋
+# 👋 Welcome, dear! 
 
 <img width="100%" height="100%" style='position:absolute;top:0;left:0;' src="https://github.com/vlad9710/vlad9710/blob/main/3kkm.gif"/>
 
