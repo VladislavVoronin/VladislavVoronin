@@ -7,7 +7,7 @@
 [<img align="left" alt="PHP" width="40px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />][Postman]
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][PostgreSQL]
 [<img align="left" alt="PHP" width="40px" src="https://qaevolution.ru/wp-content/uploads/2016/01/document-27655_960_720.png" />][WebForm]
-[<img align="left" alt="PHP" width="40px" src="https://github.com/vlad9710/vlad9710/blob/main/studio.ico" />][AndroidStudio]
+[<img align="left" alt="PHP" width="50px" src="https://github.com/vlad9710/vlad9710/blob/main/studio.ico" />][AndroidStudio]
 
 
 </br>
