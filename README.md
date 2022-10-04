@@ -9,7 +9,7 @@
 [<img align="left" alt="PHP" width="40px" src="https://qaevolution.ru/wp-content/uploads/2016/01/document-27655_960_720.png" />][WebForm]
 [<img align="left" alt="PHP" width="45px" src="https://github.com/vlad9710/vlad9710/blob/main/studio.ico" />][AndroidStudio]
 [<img align="left" alt="PHP" width="90px" src="https://test-engineer.site/wp-content/uploads/2020/08/jmeter-tutorial.png"  />][Jmeter]
-[<img align="left" alt="PHP" width="45px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_plain_wordmark_logo_icon_146457.png"  />][Java]
+[<img align="left" alt="PHP" width="45px" src="https://proxys.io/files/blog/Java/javalogo.png"  />][Java]
 
 
 </br>
