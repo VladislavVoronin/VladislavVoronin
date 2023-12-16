@@ -9,7 +9,7 @@
 [<img align="left" alt="PHP" width="45px" src="https://github.com/vlad9710/vlad9710/blob/main/studio.ico" />][AndroidStudio]
 [<img align="left" alt="PHP" width="53px" src="https://proxys.io/files/blog/Java/javalogo.png"  />][Java]
 [<img align="left" alt="PHP" width="50px" src="https://jmeter.apache.org/images/jmeter_square.svg"  />][Jmeter]
-[<img align="left" alt="PHP" width="50px" src="https://cdn.icon-icons.com/icons2/2601/PNG/512/certificate_icon_155896.png"  />][Certificates]
+[<img align="left" alt="PHP" width="50px" src="https://github.com/vlad9710/vlad9710/blob/main/Certificates.ico"  />][Certificates]
 
 
 </br>
