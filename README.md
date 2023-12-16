@@ -9,6 +9,7 @@
 [<img align="left" alt="PHP" width="45px" src="https://github.com/vlad9710/vlad9710/blob/main/studio.ico" />][AndroidStudio]
 [<img align="left" alt="PHP" width="53px" src="https://proxys.io/files/blog/Java/javalogo.png"  />][Java]
 [<img align="left" alt="PHP" width="50px" src="https://jmeter.apache.org/images/jmeter_square.svg"  />][Jmeter]
+[<img align="left" alt="PHP" width="50px" src="https://w7.pngwing.com/pngs/979/747/png-transparent-card-icon-public-key-certificate-certification-computer-icons-self-signed-certificate-skills-certificate-icon-miscellaneous-text-service.png"  />][Certificates]
 
 
 </br>
@@ -38,6 +39,7 @@
 [AndroidStudio]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/AndroidStudio
 [Jmeter]: https://github.com/vlad9710/Ksendzov_group_27/tree/main/Jmeter
 [Java]: https://github.com/vlad9710/Java
+[Certificates]: https://github.com/vlad9710/Certificates
 
 
 
